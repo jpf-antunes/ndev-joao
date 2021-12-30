@@ -31,7 +31,7 @@
 </details>
 
 [twitter]: https://twitter.com/neryathdev
-[instagram]: https://instagram.com/joaowice
+[instagram]: https://instagram.com/neryathdev
 [linkedin]: https://www.linkedin.com/in/neryathdev/
 
 ![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)  
