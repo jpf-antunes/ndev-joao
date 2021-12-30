@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning programming logic using JavaScript
 - 👯 I’m looking to opportunities to grow up and mature my skills
 - 🥅 2022 Goals: Focus on learning more and contributing to Open Source projects
-- ⚡ Fun fact: I love to play games and a science lover
+- ⚡ Fun fact: I love to play games and a I'm a science lover
 
 ### Connect with me:
 
