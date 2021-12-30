@@ -34,6 +34,4 @@
 [instagram]: https://instagram.com/joaowice
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-268ba8229/
 
-<div>
   ![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)  
-</div>
