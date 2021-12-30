@@ -33,6 +33,8 @@
 [twitter]: https://twitter.com/neryathdev
 [instagram]: https://instagram.com/joaowice
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-268ba8229/
- 
-![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)
 
+
+</hr>
+![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)
+</hr>
