@@ -17,7 +17,7 @@
 
 <br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neryath)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently learning
 
