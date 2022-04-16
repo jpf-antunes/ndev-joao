@@ -17,6 +17,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><br><br>
 
+### My GitHub stats:
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=neryath&show_icons=true&theme=tokyonight" />
 </a>
@@ -24,12 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=neryath&show_icons=true&theme=tokyonight" />
 </a>
 
-### My GitHub stats:
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### This week I worked on these
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ### The Destroyer of Commits
 
