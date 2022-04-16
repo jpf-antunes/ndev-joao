@@ -26,7 +26,6 @@
 ### This week I worked on these
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-### THE COMMIT EATER
+### The Destroyer of Commits
 
 ![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)  
