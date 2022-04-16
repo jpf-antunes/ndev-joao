@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BF22F7&center=true&lines=Hello%2C+my+name+is+Neryath!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-[![Linktree Page](https://img.shields.io/badge/neryath-linktree-brightgreen)](https://linktr.ee/neryathdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/neryathdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neryathdev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neryathdev/)
