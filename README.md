@@ -6,10 +6,6 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Neryath)
 
 
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-
-
-
 ## I'm a Student, Tech Lover and Junior JavaScript Developer!!
 
 - 👾 I’m currently learning JavaScript
