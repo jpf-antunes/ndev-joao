@@ -9,13 +9,7 @@
 - 🤖 2022 Goals: Focus on learning more and contributing to Open Source projects
 - 💣 Fun fact: I love to play games and i'm too a science lover
 
-### Connect with me on these:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+### My GitHub stats:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
