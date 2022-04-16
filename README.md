@@ -28,7 +28,7 @@
 <br><br><br><br><br>
 
 
-### The Destroyer of Commits
+### The Destroyer of Commits <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 ![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)  
 
