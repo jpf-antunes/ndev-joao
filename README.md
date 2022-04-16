@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BF22F7&center=true&lines=Hello%2C+my+name+is+Neryath!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BF22F7&center=true&lines=Hello%2C+my+name+is+Neryath!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 [![Linktree Page](https://img.shields.io/badge/neryath-linktree-brightgreen)](https://linktr.ee/neryathdev)
 [![Twitter](https://img.shields.io/twitter/follow/neryathdev?style=social_)](https://twitter.com/neryathdev)
