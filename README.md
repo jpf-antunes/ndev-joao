@@ -15,7 +15,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### This week I worked on these
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neryath)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently learning
 
