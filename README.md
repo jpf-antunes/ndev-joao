@@ -1,6 +1,7 @@
 ### Hi there, I'm João - [Neryath] 
 
 [![Linktree Page](https://img.shields.io/badge/neryath-linktree-brightgreen)](https://linktr.ee/neryathdev)
+[![Twitter](https://img.shields.io/twitter/follow/neryathdev?style=social_)](https://twitter.com/neryathdev)
 
 ## I'm a Student, Tech Lover and Junior JavaScript Developer!!
 
