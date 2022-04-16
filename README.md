@@ -14,6 +14,9 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neryath&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### This week I worked on these
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neryath)](https://github.com/anuraghazra/github-readme-stats)
+
 ### I'm currently learning
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
