@@ -11,7 +11,7 @@
 - 👾 I’m currently learning JavaScript
 - 👻 I’m looking to opportunities to grow up and mature my skills
 - 🤖 2022 Goals: Focus on learning more and contributing to Open Source projects
-- 💣 Fun fact: I love to play games and i'm too a science lover
+- 💣 Fun fact: I love to play games and I'm also a science lover
 
 ### Tools, languages and frameworks
 
