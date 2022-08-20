@@ -29,9 +29,9 @@
 <br><br><br><br><br>
 
 
-### The Destroyer of Commits
+[//]: # (### The Destroyer of Commits)
 
-![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg)  
+[//]: # (![Snake animation](https://github.com/neryath/neryath/blob/output/github-contribution-grid-snake.svg))
 
 
 
