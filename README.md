@@ -6,7 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Neryath)
 
 
-## I'm a Student, Tech Lover and Junior JavaScript Developer!! <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## I'm a Student, Tech Lover and a Wannabe FullStack Developer!! <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 👾 I’m currently learning JavaScript
 - 👻 I’m looking to opportunities to grow up and mature my skills
